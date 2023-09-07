@@ -1,7 +1,7 @@
 //your code here
 
 const namee = document.getElementById('item-name-input');
-const price = document.getElementById('item-qty-input');
+const price = document.getElementById('item-price-input');
 const add = document.getElementById('add').addEventListener('click', addElement);
 const tbody = document.getElementById('tbody');
 const total = document.getElementById('total');
